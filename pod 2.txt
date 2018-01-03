@@ -1,3 +1,7 @@
 Webstorm, pycharm:
 增加博友推荐的另外一个License Server地址。
 http://idea.imsxm.com/
+
+https://www.macappstore.net/parallels-desktop-12-po-jie/    专业版：W269N-WFGWX-YVC9B-4J6C9-T83GX
+
+https://my.vmware.com/en/web/vmware/info/slug/desktop_end_user_computing/vmware_fusion/10_0  FG3TU-DDX1M-084CY-MFYQX-QC0RD
