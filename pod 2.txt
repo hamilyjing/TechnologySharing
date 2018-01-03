@@ -1,0 +1,3 @@
+Webstorm, pycharm:
+增加博友推荐的另外一个License Server地址。
+http://idea.imsxm.com/
